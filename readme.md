@@ -1,11 +1,11 @@
 
-# Laravel Interface Generator
+# Laravel Text Speak
 
 This package is designed build upon Str to allow you to convert text to text speak e.g. converting E's to 3's.
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mpstr24/laravel-interface-generator/run-tests.yml?branch=main)
-![Packagist Version](https://img.shields.io/packagist/v/mpstr24/laravel-interface-generator)
-![Packagist Downloads](https://img.shields.io/packagist/dt/mpstr24/laravel-interface-generator)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mpstr24/laravel-text-speak/run-tests.yml?branch=main)
+![Packagist Version](https://img.shields.io/packagist/v/mpstr24/laravel-text-speak)
+![Packagist Downloads](https://img.shields.io/packagist/dt/mpstr24/laravel-text-speak)
 
 ## Installation
 
