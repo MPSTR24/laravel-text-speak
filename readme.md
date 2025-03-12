@@ -12,10 +12,8 @@ This package is designed build upon Str to allow you to convert text to text spe
 Install the package via Composer:
 
 ```bash
-composer require mpstr24/laravel-interface-typer
+composer require mpstr24/laravel-text-speak
 ```
-
-
 
 ## Usage/Examples
 
