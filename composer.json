@@ -1,6 +1,6 @@
 {
     "name": "mpstr24/laravel-text-speak",
-    "description": "Laravel package to all text speak conversion",
+    "description": "Laravel package to allow text to text speak conversion",
     "type": "package",
     "license": "MIT",
     "homepage": "https://github.com/MPSTR24/laravel-text-speak",
